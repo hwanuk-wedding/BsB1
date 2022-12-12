@@ -135,3 +135,7 @@
 .root_daum_roughmap_landing {
     width: 100% !important;
 }
+
+.area.map p:first-of-type {
+    margin-top: 20px;
+}

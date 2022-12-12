@@ -136,6 +136,6 @@
     width: 100% !important;
 }
 
-.area.map p:first-of-type {
+.area.map .margin{
     margin-top: 20px;
 }
